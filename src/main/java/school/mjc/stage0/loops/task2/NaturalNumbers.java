@@ -12,7 +12,6 @@ public class NaturalNumbers {
     public static void main(String[] args) {
         NaturalNumbers numbersPrinter = new NaturalNumbers();
 
-        // Example: Print natural numbers from 0 to 5
         numbersPrinter.naturalNumbersPrinter(5);
     }
 }
